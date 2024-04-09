@@ -1,0 +1,9 @@
+Definition of Done dla Epic rejestracji/logowania/zapomnianego hasła
+
+1.Umożliwienie tworzenia nowego konta użytkownika.
+2.Możliwość logowania się na istniejące konto użytkownika.
+3.Zapewnienie funkcjonalności usuwania konta użytkownika.
+4.Wdrożenie mechanizmu odzyskiwania hasła w przypadku jego zapomnienia.
+5.Dodanie opcji weryfikacji dwuetapowej w celu zwiększenia bezpieczeństwa.
+6.Udostępnienie możliwości modyfikacji danych użytkownika.
+7.Przeprowadzenie wszechstronnych testów w celu zapewnienia bezpieczeństwa użytkowników.
